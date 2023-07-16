@@ -69,13 +69,14 @@ ul > li > a {
   /* nav style  */
   nav {
     flex-direction: column;
+    margin-bottom: 50px;
   }
   .nav-logo {
     width: 200px;
     padding: 15px;
   }
   ul > li {
-    margin-right: 25px;
+    margin-right: 20px;
   }
   /* banner style  */
   .banner-con {
