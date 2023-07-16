@@ -162,4 +162,10 @@ ul > li > a {
     width: 100%;
     height: auto;
   }
+  /* feature section  */
+  .feature {
+    flex-direction: column;
+    padding: 30px;
+    margin: auto;
+  }
 }
